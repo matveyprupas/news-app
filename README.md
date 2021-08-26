@@ -1,5 +1,7 @@
 # News App
 
+**Deploy** https://matveyprupas.github.io/news-app/news-app/
+
 ## Prerequisites
 
 1. Create a new branch named _news-app_ in **your private RS** Github account and upload your solution.
